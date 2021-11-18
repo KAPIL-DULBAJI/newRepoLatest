@@ -1,0 +1,7 @@
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\bin\Debug\KapilConsoleApp1.exe.config
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\bin\Debug\KapilConsoleApp1.exe
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\bin\Debug\KapilConsoleApp1.pdb
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\obj\Debug\KapilConsoleApp1.csproj.AssemblyReference.cache
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\obj\Debug\KapilConsoleApp1.csproj.CoreCompileInputs.cache
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\obj\Debug\KapilConsoleApp1.exe
+E:\KapilRepo\KapilConsoleApp1solution\KapilConsoleApp1\obj\Debug\KapilConsoleApp1.pdb
